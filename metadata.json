@@ -1,0 +1,6 @@
+{
+  "name": "CharityChain - Transparent Charity & Milestone Escrow DApp",
+  "description": "Production-ready decentralized charity fund tracking and milestone-based escrow dApp with donor consensus, direct vendor payouts, and cryptographic invoice verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
